@@ -1,6 +1,3 @@
-Awesome! Here's a polished `README.md` you can drop straight into your project. It explains what your voice recorder does, how to run it, and includes all the important details:
-
----
 
 ## 🎙️ React Voice Recorder++
 
